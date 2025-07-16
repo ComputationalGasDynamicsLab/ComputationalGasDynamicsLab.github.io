@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>:
+subtitle: <a href='#'>Affiliations</a>
   <p>Assistant Professor</p>
   <p>Department of Mechanical Engineering</p>
   <p>University of North Dakota</p>
