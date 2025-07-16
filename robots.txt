@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://computationalgasdynamicslab.github.io/al-folio/sitemap.xml
+Sitemap: https://ComputationalGasDynamicsLab.github.io/sitemap.xml
