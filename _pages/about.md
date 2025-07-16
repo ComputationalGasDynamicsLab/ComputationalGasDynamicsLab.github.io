@@ -7,9 +7,6 @@ subtitle: <a href='#'>Affiliations</a>:
   <p>Department of Mechanical Engineering</p>
   <p>University of North Dakota</p>
   <p>chonglin.zhang [the magic symbol] und.edu</p>
-  <p style="margin-top: 50px">
-    <a href="http://scholar.google.com/citations?user=FmT3ZewAAAAJ&hl" target="_blank">Google MyCitations</a>
-  </p>
 
 profile:
   align: right
