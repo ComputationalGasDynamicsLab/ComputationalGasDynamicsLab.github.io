@@ -1,14 +1,24 @@
 ---
 ---
 
-.navbar-collapse-main {
-  display: flex !important;
-  visibility: visible !important;
-  opacity: 1 !important;
+/* Navbar: desktop */
+@media (min-width: 576px) {
+  .navbar-collapse-main {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
 }
 
-.navbar-collapse-main .navbar-nav {
-  display: flex !important;
-  visibility: visible !important;
-  opacity: 1 !important;
+/* Navbar: mobile */
+@media (max-width: 575.98px) {
+  .navbar-collapse-main {
+    display: none;
+  }
+
+  .navbar-collapse-main.show {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
 }
