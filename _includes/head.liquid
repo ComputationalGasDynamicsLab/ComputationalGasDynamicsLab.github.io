@@ -9,18 +9,6 @@
   content="default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; connect-src 'self' https:;"
 >
 
-<style>
-  #navbarNav.navbar-collapse {
-    display: flex !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-
-  #navbarNav.navbar-collapse.collapse {
-    display: flex !important;
-  }
-</style>
-
 <!-- Tailwind-first core styles -->
 <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | relative_url | bust_file_cache }}">
 
@@ -213,20 +201,3 @@
   <!-- Marimo notebooks -->
   {% include plugins/al_marimo_styles.liquid %}
 {% endif %}
-
-<style>
-  .navbar-collapse {
-    display: flex !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-
-  .navbar-nav {
-    display: flex !important;
-    visibility: visible !important;
-  }
-
-  .navbar-toggler {
-    display: none !important;
-  }
-</style>
