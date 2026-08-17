@@ -4,12 +4,12 @@ title: about
 permalink: /
 subtitle: <a href='#'>Faculty</a>
 
-    <p> Chonglin Zhang</p>
-    <p>Assistant Professor</p>
-    <p>Department of Mechanical Engineering</p>
-    <p>University of North Dakota</p>
-    <p>chonglin.zhang [the magic symbol] und.edu</p>
-    <p><a href="http://scholar.google.com/citations?user=FmT3ZewAAAAJ&hl" target="_blank">Google MyCitations</a></p>
+  <p> Chonglin Zhang</p>
+  <p>Assistant Professor</p>
+  <p>Department of Mechanical Engineering</p>
+  <p>University of North Dakota</p>
+  <p>chonglin.zhang [the magic symbol] und.edu</p>
+  <p><a href="http://scholar.google.com/citations?user=FmT3ZewAAAAJ&hl" target="_blank">Google MyCitations</a></p>
 
 profile:
   align: right
