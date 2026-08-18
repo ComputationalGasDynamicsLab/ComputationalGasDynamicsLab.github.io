@@ -22,83 +22,183 @@ latest_posts:
   enabled: false
 ---
 
-# Computational Gas Dynamics and Plasma Physics Lab
+<div class="lab-hero">
 
-### University of North Dakota
+<p class="lab-tagline">
+Physics-based computational modeling of gas, plasma, and nonequilibrium flows.
+</p>
 
-**Physics-based computational modeling of complex gas, plasma, and nonequilibrium flows.**
+<p class="lab-intro">
+We develop predictive computational methods for complex gas-dynamic and plasma phenomena by combining
+<strong>kinetic theory-based particle simulation methods and high-performance computing</strong>.
+Our work connects fundamental physics with applications in aerospace, low-temperature plasma, and advanced manufacturing.
+</p>
 
-The Computational Gas Dynamics and Plasma Physics Lab develops computational methods to understand complex flow and plasma phenomena across a wide range of physical regimes. Our research combines **kinetic theory, particle-based simulation, continuum methods, and high-performance computing** to develop predictive models for aerospace, plasma, and advanced manufacturing applications.
+</div>
+
 
 <div class="research-grid">
-<div class="research-card">
 
-### Low-Temperature Plasma
+<div class="research-card research-card-primary">
 
-Kinetic modeling of plasma transport, plasma-surface interactions, radio-frequency plasmas, and plasma-enabled manufacturing.
+<div class="research-card-label">RESEARCH AREA</div>
+
+<h3>Low-Temperature Plasma</h3>
+
+<p>
+We develop kinetic models of low-temperature plasmas and plasma-surface interactions,
+with applications to radio-frequency discharges and plasma-enabled semiconductor manufacturing.
+</p>
+
+<div class="research-card-methods">
+Particle-in-Cell · Plasma kinetics · Plasma-surface interactions
+</div>
 
 </div>
 
-<div class="research-card">
 
-### Hypersonic Nonequilibrium Flow
+<div class="research-card research-card-primary">
 
-Computational modeling of rarefied and nonequilibrium gas dynamics, shock layers, and hypersonic aerothermodynamics.
+<div class="research-card-label">RESEARCH AREA</div>
+
+<h3>Hypersonic Nonequilibrium Flow</h3>
+
+<p>
+We study rarefied and nonequilibrium gas dynamics, shock layers, and hypersonic aerothermodynamics
+using particle-based and continuum-kinetic approaches.
+</p>
+
+<div class="research-card-methods">
+Direct Simulation Monte Carlo · Nonequilibrium flow · Aerothermodynamics
+</div>
 
 </div>
 
-<div class="research-card">
 
-### GPU-Accelerated Computing
+<div class="research-card research-card-capability">
 
-Scalable particle methods, unstructured-mesh algorithms, and GPU-accelerated simulation for high-performance scientific computing.
+<div class="research-card-label">COMPUTATIONAL CAPABILITY</div>
+
+<h3>GPU-Accelerated High-Performance Computing</h3>
+
+<p>
+We develop scalable algorithms for large-scale scientific simulation, including GPU-accelerated
+particle methods, unstructured-mesh algorithms, and high-performance computing workflows.
+</p>
+
+<div class="research-card-methods">
+GPU acceleration · High-performance computing · Unstructured meshes
+</div>
 
 </div>
+
 </div>
 
-## Research
 
-Our research spans fundamental computational methods and applications in gas dynamics and plasma physics.
+<section class="homepage-section">
 
-- **Kinetic and particle methods** — Direct Simulation Monte Carlo, Particle-in-Cell, and coupled kinetic approaches
-- **Low-temperature plasma** — Plasma kinetics, plasma-surface interactions, and plasma-enabled semiconductor manufacturing
-- **Hypersonic flow** — Rarefied gas dynamics, nonequilibrium flow, and aerothermodynamics
-- **Numerical methods** — Unstructured meshes, finite-element methods, conservative algorithms, and adaptive resolution
-- **High-performance computing** — GPU acceleration, scalable algorithms, and leadership-class computing
-- **Scientific AI** — AI-assisted computational workflows and reduced-order and surrogate modeling
+<h2>Research</h2>
 
-## Featured Research
+<p>
+Our research combines <strong>physics-based modeling</strong> with scalable
+computational methods to understand complex gas-dynamic and plasma phenomena.
+</p>
 
-### GPU-Accelerated Kinetic Plasma Modeling
+<div class="featured-research-grid">
 
-Development of scalable kinetic simulation methods for predictive modeling of low-temperature plasmas and plasma-surface interactions.
+<div class="featured-research-item">
 
-### Plasma-Enabled Semiconductor Manufacturing
+<h3>Low-Temperature Plasma</h3>
 
-Kinetic modeling of radio-frequency plasmas and high-aspect-ratio plasma etching for next-generation semiconductor manufacturing.
+<p>
+We study plasma transport, plasma-surface interactions, and radio-frequency
+discharges using kinetic modeling, with applications to plasma-enabled
+semiconductor manufacturing and high-aspect-ratio etching.
+</p>
 
-### Hypersonic Nonequilibrium Flow
+</div>
 
-Particle-based and continuum-kinetic simulation of rarefied, high-temperature, and nonequilibrium hypersonic flows.
 
-### Comet and CometAI
+<div class="featured-research-item">
 
-GPU-accelerated kinetic simulation and AI-assisted computational workflows for large-scale scientific computing.
+<h3>Hypersonic Nonequilibrium Flow</h3>
 
-## Opportunities
+<p>
+We investigate rarefied and high-temperature nonequilibrium gas dynamics,
+shock-layer physics, and hypersonic aerothermodynamics using particle-based
+and continuum-kinetic approaches.
+</p>
 
-### Funded Ph.D. positions
+</div>
 
-I am looking for **highly motivated Ph.D. students** interested in:
 
-**low-temperature plasma, hypersonic nonequilibrium flow, kinetic theory, numerical methods, and high-performance computing.**
+<div class="featured-research-item">
 
-Positions are available for **Spring 2027 and Fall 2027**.
+<h3>GPU-Accelerated High-Performance Computing</h3>
 
-[Learn more about Ph.D. opportunities →](/opportunities/)
+<p>
+We develop GPU-accelerated algorithms and scalable computational methods for
+large-scale scientific simulation, including particle methods, unstructured
+meshes, and high-performance computing on leadership-class systems.
+</p>
 
-## Latest News
+</div>
 
+
+<div class="featured-research-item">
+
+<h3>Scientific AI</h3>
+
+<p>
+We develop AI-assisted simulation workflows and surrogate models that connect
+high-fidelity physics-based simulations with efficient scientific prediction,
+analysis, and computational discovery.
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+
+
+<section class="opportunity-callout">
+
+<h2>Join the Lab</h2>
+
+<h3>Funded Ph.D. Positions — Spring 2027 and Fall 2027</h3>
+
+<p>
+I am looking for <strong>highly motivated Ph.D. students</strong> interested in
+<strong>low-temperature plasma, hypersonic nonequilibrium flow, kinetic theory,
+numerical methods, and high-performance computing</strong>.
+</p>
+
+<p>
+Students will work on funded research projects while developing advanced computational
+methods for complex gas-dynamic and plasma-physics problems.
+</p>
+
+<p>
+<a href="/opportunities/">Learn more about Ph.D. opportunities →</a>
+</p>
+
+</section>
+
+
+<section class="homepage-section homepage-news">
+
+<h2>Latest News</h2>
+
+<p>
 See the latest research, awards, publications, and opportunities from the lab.
+</p>
 
-[View all news →](/news/)
+<p>
+<a href="/news/">View all news →</a>
+</p>
+
+</section>
