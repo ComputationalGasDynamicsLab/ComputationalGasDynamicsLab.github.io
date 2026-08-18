@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 
 profile:
@@ -165,6 +165,7 @@ analysis, and computational discovery.
 
 
 
+<p><a href="/research/">Explore our research projects →</a></p>
 <section class="opportunity-callout">
 
 <h2>Join the Lab</h2>
