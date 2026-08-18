@@ -215,3 +215,177 @@
     margin: 2rem 0;
   }
 }
+
+/* ============================================================
+   Projects Page
+   ============================================================ */
+
+.projects-intro {
+  margin: 2rem 0 3rem;
+  padding: 2rem 2.25rem;
+  border-left: 4px solid var(--global-theme-color);
+  background: rgba(128, 128, 128, 0.06);
+}
+
+.projects-intro-label,
+.projects-vision-label {
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--global-theme-color);
+}
+
+.projects-intro h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.projects-intro p {
+  max-width: 900px;
+  margin-bottom: 0;
+}
+
+
+/* Project cards */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0 3.5rem;
+}
+
+.project-card {
+  position: relative;
+  padding: 2rem;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 8px;
+  background: var(--global-bg-color);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--global-theme-color);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.project-card-wide {
+  grid-column: 1 / -1;
+}
+
+.project-number {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.75rem;
+  font-size: 2.5rem;
+  line-height: 1;
+  font-weight: 700;
+  opacity: 0.12;
+}
+
+.project-category {
+  margin-bottom: 0.65rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  color: var(--global-theme-color);
+}
+
+.project-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  font-size: 1.65rem;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  font-size: 1rem;
+  font-weight: 500;
+  opacity: 0.75;
+}
+
+.project-card p {
+  line-height: 1.7;
+}
+
+
+/* Research focus */
+
+.project-focus {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.project-focus strong {
+  flex-basis: 100%;
+  margin-bottom: 0.2rem;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.project-focus span {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 999px;
+  font-size: 0.75rem;
+  line-height: 1.2;
+}
+
+
+/* Research vision */
+
+.projects-vision {
+  margin: 1rem 0 2rem;
+  padding: 2.25rem;
+  border-top: 2px solid var(--global-theme-color);
+  background: rgba(128, 128, 128, 0.05);
+}
+
+.projects-vision h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.projects-vision p {
+  max-width: 900px;
+  line-height: 1.75;
+}
+
+
+/* Responsive layout */
+
+@media (max-width: 800px) {
+
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card-wide {
+    grid-column: auto;
+  }
+
+  .projects-intro,
+  .projects-vision,
+  .project-card {
+    padding: 1.5rem;
+  }
+
+  .project-number {
+    font-size: 2rem;
+    right: 1.25rem;
+  }
+
+}
