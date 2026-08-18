@@ -1,0 +1,31 @@
+<div class="lab-news">
+
+{% assign news = site.news | sort: "date" | reverse %}
+
+{% for item in news %}
+
+<article class="lab-news-item">
+
+<div class="lab-news-date">
+{{ item.date | date: "%b %Y" }}
+</div>
+
+<div class="lab-news-content">
+
+{% if item.title %}
+<h3>
+<a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+</h3>
+{% endif %}
+
+<div class="lab-news-text">
+{{ item.content }}
+</div>
+
+</div>
+
+</article>
+
+{% endfor %}
+
+</div>
