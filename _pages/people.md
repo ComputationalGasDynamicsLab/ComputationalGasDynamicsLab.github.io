@@ -20,7 +20,6 @@ GPU-accelerated high-performance computing, and high-performance computing.
 
 </div>
 
-
 <div class="people-section">
 
 <div class="people-section-label">PRINCIPAL INVESTIGATOR</div>
@@ -50,7 +49,6 @@ GPU-accelerated high-performance computing
 
 </div>
 
-
 <div class="people-section">
 
 <div class="people-section-label">GRADUATE STUDENTS</div>
@@ -74,7 +72,6 @@ High-performance computing
 
 </div>
 
-
 <div class="people-section">
 
 <div class="people-section-label">UNDERGRADUATE STUDENTS</div>
@@ -95,7 +92,6 @@ Spring 2026–Present
 
 </div>
 
-
 <div class="people-card">
 
 <h3>Casia Steinhaus</h3>
@@ -111,7 +107,6 @@ Fall 2025–Present
 </div>
 
 </div>
-
 
 <div class="people-section-label">ALUMNI</div>
 
@@ -134,7 +129,6 @@ Hypersonic flow · Direct Simulation Monte Carlo · Spectral analysis
 
 </div>
 
-
 <div class="people-card">
 
 <h3>Wei Guo</h3>
@@ -151,7 +145,6 @@ Plasma physics · Capacitively coupled plasma
 
 </div>
 
-
 <div class="people-card">
 
 <h3>Jalen Howard</h3>
@@ -166,7 +159,6 @@ Hypersonic flow · Nuclear space propulsion
 </ul>
 
 </div>
-
 
 <div class="people-card">
 

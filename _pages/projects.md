@@ -20,7 +20,6 @@ hypersonic aerothermodynamics, and scientific computing.
 
 </div>
 
-
 <div class="project-grid">
 
 <div class="project-card">
@@ -57,7 +56,6 @@ of complex nonequilibrium phenomena on modern high-performance computing systems
 
 </div>
 
-
 <div class="project-card">
 
 <div class="project-number">02</div>
@@ -93,7 +91,6 @@ simulation capabilities.
 
 </div>
 
-
 <div class="project-card">
 
 <div class="project-number">03</div>
@@ -127,7 +124,6 @@ processing, including high-aspect-ratio etching and ion energy and angular distr
 </div>
 
 </div>
-
 
 <div class="project-card">
 
@@ -163,7 +159,6 @@ and predictive modeling of complex hypersonic aerothermodynamic phenomena.
 </div>
 
 </div>
-
 
 <div class="project-card project-card-wide">
 
@@ -202,7 +197,6 @@ required by kinetic particle simulations.
 </div>
 
 </div>
-
 
 <div class="projects-vision">
 

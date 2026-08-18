@@ -36,7 +36,6 @@ Our work connects fundamental physics with applications in aerospace, low-temper
 
 </div>
 
-
 <div class="research-grid">
 
 <div class="research-card research-card-primary">
@@ -56,7 +55,6 @@ Particle-in-Cell · Plasma kinetics · Plasma-surface interactions
 
 </div>
 
-
 <div class="research-card research-card-primary">
 
 <div class="research-card-label">RESEARCH AREA</div>
@@ -73,7 +71,6 @@ Direct Simulation Monte Carlo · Nonequilibrium flow · Aerothermodynamics
 </div>
 
 </div>
-
 
 <div class="research-card research-card-capability">
 
@@ -93,7 +90,6 @@ GPU acceleration · High-performance computing · Unstructured meshes
 </div>
 
 </div>
-
 
 <section class="homepage-section">
 
@@ -118,7 +114,6 @@ semiconductor manufacturing and high-aspect-ratio etching.
 
 </div>
 
-
 <div class="featured-research-item">
 
 <h3>Hypersonic Nonequilibrium Flow</h3>
@@ -131,7 +126,6 @@ and continuum-kinetic approaches.
 
 </div>
 
-
 <div class="featured-research-item">
 
 <h3>GPU-Accelerated High-Performance Computing</h3>
@@ -143,7 +137,6 @@ meshes, and high-performance computing on leadership-class systems.
 </p>
 
 </div>
-
 
 <div class="featured-research-item">
 
@@ -160,10 +153,6 @@ analysis, and computational discovery.
 </div>
 
 </section>
-
-
-
-
 
 <p><a href="/research/">Explore our research projects →</a></p>
 <section class="opportunity-callout">
@@ -188,7 +177,6 @@ methods for complex gas-dynamic and plasma-physics problems.
 </p>
 
 </section>
-
 
 <section class="homepage-section homepage-news">
 
