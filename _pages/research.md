@@ -97,6 +97,42 @@ simulation capabilities.
 
 <div class="project-number">03</div>
 
+<div class="project-category">HYPERSONIC FLOW</div>
+
+<h2>Hypersonic Nonequilibrium Flow</h2>
+
+<h3>Kinetic Modeling of Hypersonic Aerothermodynamics</h3>
+
+<p>
+Particle-based modeling of rarefied and nonequilibrium flows encountered in
+high-speed atmospheric entry and other extreme aerodynamic environments.
+</p>
+
+<p>
+The research focuses on shock-layer physics, high-temperature nonequilibrium,
+and predictive modeling of complex hypersonic aerothermodynamic phenomena.</p>
+<video autoplay muted loop playsinline style="width: 80%; border-radius: 8px; display: block; margin: 20px auto 8px auto;"><source src="{{ site.baseurl }}/assets/video/2d_flow_over_double_wedge_density_schlieren.mp4" type="video/mp4"></video>
+<p style="text-align: center; font-style: italic; margin-bottom: 30px;">2D hypersonic flow over a double-wedge geometry, visualized using density schlieren.</p>
+
+<div class="project-focus">
+
+<strong>Research Focus</strong>
+
+<span>Rarefied Gas Dynamics</span>
+<span>Nonequilibrium Flow</span>
+<span>Shock-Layer Physics</span>
+<span>Particle Simulation</span>
+<span>Aerothermodynamics</span>
+<span>Radiative Heating</span>
+
+</div>
+
+</div>
+
+<div class="project-card">
+
+<div class="project-number">04</div>
+
 <div class="project-category">LOW-TEMPERATURE PLASMA</div>
 
 <h2>Plasma-Enabled Manufacturing</h2>
@@ -122,41 +158,6 @@ processing, including high-aspect-ratio etching and ion energy and angular distr
 <span>Plasma-Surface Interactions</span>
 <span>Semiconductor Etching</span>
 <span>Ion Energy Distributions</span>
-
-</div>
-
-</div>
-
-<div class="project-card">
-
-<div class="project-number">04</div>
-
-<div class="project-category">HYPERSONIC FLOW</div>
-
-<h2>Hypersonic Nonequilibrium Flow</h2>
-
-<h3>Kinetic Modeling of Hypersonic Aerothermodynamics</h3>
-
-<p>
-Particle-based modeling of rarefied and nonequilibrium flows encountered in
-high-speed atmospheric entry and other extreme aerodynamic environments.
-</p>
-
-<p>
-The research focuses on shock-layer physics, high-temperature nonequilibrium,
-and predictive modeling of complex hypersonic aerothermodynamic phenomena.
-</p>
-
-<div class="project-focus">
-
-<strong>Research Focus</strong>
-
-<span>Rarefied Gas Dynamics</span>
-<span>Nonequilibrium Flow</span>
-<span>Shock-Layer Physics</span>
-<span>Particle Simulation</span>
-<span>Aerothermodynamics</span>
-<span>Radiative Heating</span>
 
 </div>
 
