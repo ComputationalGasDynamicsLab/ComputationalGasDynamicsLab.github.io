@@ -32,10 +32,10 @@ hypersonic aerothermodynamics, and scientific computing.
 
 <h2>Comet</h2>
 
-<h3>GPU-Accelerated Kinetic Simulation</h3>
+<h3>GPU-Accelerated Kinetic Simulation Framework</h3>
 
 <p>
-A GPU-accelerated kinetic simulation framework for large-scale particle-based
+A GPU-accelerated kinetic simulation framework for particle-based
 modeling of plasma and gas-dynamic systems.
 </p>
 
@@ -52,7 +52,7 @@ of complex nonequilibrium phenomena on modern high-performance computing systems
 <span>Direct Simulation Monte Carlo</span>
 <span>GPU Acceleration</span>
 <span>Unstructured Meshes</span>
-<span>Large-Scale Computing</span>
+<span>Kinetic Simulation</span>
 
 </div>
 
@@ -169,7 +169,7 @@ processing, including high-aspect-ratio etching and ion energy and angular distr
 
 <div class="project-category">HIGH-PERFORMANCE COMPUTING</div>
 
-<h2>GPU-Accelerated Particle Simulation</h2>
+<h2>GPU-Accelerated Computing</h2>
 
 <h3>Scalable Algorithms and Numerical Methods</h3>
 
