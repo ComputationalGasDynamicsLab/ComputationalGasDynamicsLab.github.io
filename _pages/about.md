@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 3D_flow_over_Orion_Vx.png
   image_circular: false
   more_info: >
     <p>Department of Mechanical Engineering</p>
