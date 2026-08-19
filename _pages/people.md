@@ -155,6 +155,7 @@ Hypersonic flow · Nuclear space propulsion
 
 <ul class="people-affiliation">
 <li>Fall 2023–Fall 2024</li>
+<li>B.S. Mechanical Engineering, Spring 2024</li>
 <li>Now at Boeing</li>
 </ul>
 
