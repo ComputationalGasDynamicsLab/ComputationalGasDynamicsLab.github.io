@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Research publications from the Computational Gas Dynamics and Plasma Physics Lab.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div class="publications-intro">
