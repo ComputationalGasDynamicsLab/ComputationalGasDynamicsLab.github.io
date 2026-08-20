@@ -752,3 +752,117 @@
     gap: 0.25rem;
   }
 }
+
+/* ==========================================================================
+   Opportunities page
+   ========================================================================== */
+
+.opportunities-intro {
+  margin: 1.5rem 0 2.75rem;
+  padding: 2rem 2.25rem;
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 0 12px 12px 0;
+  background: var(--global-code-bg-color);
+}
+
+.opportunities-intro-label,
+.opportunities-section-label {
+  margin-bottom: 0.65rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--global-theme-color);
+}
+
+.opportunities-intro h2,
+.opportunities-methods h2,
+.opportunities-application h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.opportunities-intro p,
+.opportunities-application p {
+  max-width: 850px;
+  margin-bottom: 0;
+  line-height: 1.7;
+}
+
+.opportunities-section {
+  margin-bottom: 2.75rem;
+}
+
+.opportunities-section > .opportunities-section-label {
+  margin-bottom: 1rem;
+}
+
+.opportunities-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.opportunity-card {
+  padding: 1.5rem 1.6rem;
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--global-theme-color);
+  border-radius: 8px;
+  background: var(--global-bg-color);
+}
+
+.opportunity-number {
+  margin-bottom: 0.7rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--global-theme-color);
+  opacity: 0.8;
+}
+
+.opportunity-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.opportunity-card p {
+  margin-bottom: 0;
+  line-height: 1.65;
+}
+
+.opportunities-methods {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: 2rem;
+  margin: 0 0 2.75rem;
+  padding: 1.75rem 2rem;
+  border-top: 2px solid var(--global-theme-color);
+  background: rgba(128, 128, 128, 0.05);
+}
+
+.opportunities-methods p {
+  margin: 0;
+  line-height: 1.7;
+}
+
+.opportunities-application {
+  margin-bottom: 1rem;
+  padding-top: 0.25rem;
+}
+
+.opportunities-application ul {
+  max-width: 850px;
+  margin-top: 0.5rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .opportunities-intro,
+  .opportunities-methods {
+    padding: 1.5rem;
+  }
+
+  .opportunities-grid,
+  .opportunities-methods {
+    grid-template-columns: 1fr;
+  }
+}
