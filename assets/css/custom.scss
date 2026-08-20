@@ -712,6 +712,114 @@
   }
 }
 
+/* ==========================================================================
+   Teaching page
+   ========================================================================== */
+
+.teaching-intro {
+  margin: 1.5rem 0 2.75rem;
+  padding: 2rem 2.25rem;
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 0 12px 12px 0;
+  background: var(--global-code-bg-color);
+}
+
+.teaching-intro-label,
+.teaching-section-label {
+  margin-bottom: 0.65rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--global-theme-color);
+}
+
+.teaching-intro h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.teaching-intro p {
+  max-width: 850px;
+  margin-bottom: 0;
+  line-height: 1.7;
+}
+
+.teaching-section {
+  margin-bottom: 2.75rem;
+}
+
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.teaching-card {
+  padding: 1.5rem 1.6rem;
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--global-theme-color);
+  border-radius: 8px;
+  background: var(--global-bg-color);
+}
+
+.teaching-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.8rem;
+  margin-bottom: 0.85rem;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  color: var(--global-theme-color);
+}
+
+.teaching-card-meta span:not(:first-child) {
+  padding-left: 0.8rem;
+  border-left: 1px solid var(--global-divider-color);
+}
+
+.teaching-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.teaching-card p {
+  margin-bottom: 0;
+  line-height: 1.65;
+}
+
+.teaching-focus {
+  margin-bottom: 1rem;
+  padding: 1.5rem 2rem;
+  border-top: 2px solid var(--global-theme-color);
+  background: rgba(128, 128, 128, 0.05);
+}
+
+.teaching-focus-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.teaching-focus-items span {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 999px;
+  font-size: 0.75rem;
+  line-height: 1.2;
+}
+
+@media (max-width: 768px) {
+  .teaching-intro,
+  .teaching-focus {
+    padding: 1.5rem;
+  }
+
+  .teaching-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* News */
 
 .lab-news {
