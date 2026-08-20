@@ -155,6 +155,21 @@ analysis, and computational discovery.
 </section>
 
 <p><a href="/research/">Explore our research projects →</a></p>
+
+<section class="homepage-section">
+
+<h2>Research Software</h2>
+
+<p>
+We build <strong>Comet</strong>, a GPU-accelerated kinetic simulation framework,
+and <strong>CometAI</strong>, an AI-assisted layer for scientific simulation
+workflows.
+</p>
+
+<p><a href="/software/">Explore our research software →</a></p>
+
+</section>
+
 <section class="opportunity-callout">
 
 <h2>Join the Lab</h2>

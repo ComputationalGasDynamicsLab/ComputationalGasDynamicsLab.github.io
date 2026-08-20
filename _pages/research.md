@@ -203,6 +203,58 @@ required by kinetic particle simulations.
 
 <div class="projects-vision">
 
+<div class="projects-vision-label">RESEARCH SOFTWARE</div>
+
+<h2>Research Software</h2>
+
+<div class="research-software-grid">
+
+<div class="research-software-card">
+
+<h3>Comet</h3>
+
+<div class="research-software-subtitle">Kinetic Simulation</div>
+
+<p>
+GPU-accelerated Particle-in-Cell and Direct Simulation Monte Carlo methods for
+kinetic simulation on unstructured meshes.
+</p>
+
+<div class="research-software-tags">
+<span>Particle-in-Cell</span>
+<span>Direct Simulation Monte Carlo</span>
+<span>GPU</span>
+<span>Unstructured Meshes</span>
+</div>
+
+</div>
+
+<div class="research-software-card">
+
+<h3>CometAI</h3>
+
+<div class="research-software-subtitle">Scientific AI</div>
+
+<p>
+AI-assisted workflows for high-fidelity kinetic simulation and scientific
+computing.
+</p>
+
+<div class="research-software-tags">
+<span>Scientific AI</span>
+<span>Workflow Automation</span>
+<span>Retrieval-Augmented Workflows</span>
+<span>Surrogate Modeling</span>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="projects-vision">
+
 <div class="projects-vision-label">RESEARCH VISION</div>
 
 <h2>From Kinetic Physics to Scalable Simulation</h2>

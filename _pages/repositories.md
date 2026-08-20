@@ -1,47 +1,92 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /software/
+title: Software
 nav: false
-nav_order: 4
+nav_order: 7
 ---
 
-{% if site.data.repositories.github_users %}
+<div class="projects-intro">
 
-## GitHub users
+<div class="projects-intro-label">RESEARCH SOFTWARE</div>
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
+<h2>Research Software</h2>
+
+<p>
+Our group develops software that connects kinetic theory, particle simulation,
+and scientific AI with scalable computational workflows for gas dynamics and
+plasma physics.
+</p>
+
 </div>
 
----
+<div class="project-grid">
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+<div class="project-card">
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
+<div class="project-category">KINETIC SIMULATION FRAMEWORK</div>
 
----
+<h2>Comet</h2>
 
-{% endfor %}
-{% endif %}
-{% endif %}
+<h3>GPU-Accelerated Kinetic Simulation Framework</h3>
 
-{% if site.data.repositories.github_repos %}
+<p>
+Comet is the group’s simulation software for high-fidelity particle-based
+modeling of low-temperature plasma and nonequilibrium gas dynamics.
+</p>
 
-## GitHub Repositories
+<p>
+The framework supports scalable kinetic simulations on unstructured meshes,
+using Particle-in-Cell and Direct Simulation Monte Carlo methods with
+GPU-accelerated high-performance computing.
+</p>
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+<div class="project-focus">
+
+<strong>Capabilities</strong>
+
+<span>Particle-in-Cell</span>
+<span>Direct Simulation Monte Carlo</span>
+<span>Unstructured Meshes</span>
+<span>Low-Temperature Plasma</span>
+<span>Nonequilibrium Gas Dynamics</span>
+<span>GPU-Accelerated HPC</span>
+
 </div>
-{% endif %}
+
+</div>
+
+<div class="project-card">
+
+<div class="project-category">SCIENTIFIC AI WORKFLOWS</div>
+
+<h2>CometAI</h2>
+
+<h3>AI-Assisted Scientific Simulation Workflows</h3>
+
+<p>
+CometAI is the AI-assisted workflow layer for configuring, running, and
+analyzing high-fidelity kinetic simulations.
+</p>
+
+<p>
+It combines scientific AI with retrieval-augmented workflows, automation, and
+surrogate modeling while remaining connected to the Comet simulation framework.
+</p>
+
+<div class="project-focus">
+
+<strong>Capabilities</strong>
+
+<span>Scientific AI</span>
+<span>AI-Assisted Simulation</span>
+<span>Retrieval-Augmented Workflows</span>
+<span>Workflow Automation</span>
+<span>Surrogate Modeling</span>
+<span>High-Fidelity Kinetic Simulation</span>
+
+</div>
+
+</div>
+
+</div>
