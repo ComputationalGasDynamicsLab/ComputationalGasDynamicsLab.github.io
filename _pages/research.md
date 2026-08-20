@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-Our research develops **physics-based computational methods** for complex gas-dynamic and plasma phenomena, with an emphasis on kinetic theory, particle simulation, GPU-accelerated computing, and high-performance computing.
+Our research develops **physics-based computational methods** for complex gas-dynamic and plasma phenomena, with an emphasis on kinetic theory, particle simulation, and GPU-accelerated high-performance computing.
 
 <div class="projects-intro">
 
@@ -111,8 +111,8 @@ high-speed atmospheric entry and other extreme aerodynamic environments.
 <p>
 The research focuses on shock-layer physics, high-temperature nonequilibrium,
 and predictive modeling of complex hypersonic aerothermodynamic phenomena.</p>
-<video autoplay muted loop playsinline style="width: 80%; border-radius: 8px; display: block; margin: 20px auto 8px auto;"><source src="{{ site.baseurl }}/assets/video/2d_flow_over_double_wedge_density_schlieren.mp4" type="video/mp4"></video>
-<p style="text-align: center; font-style: italic; margin-bottom: 30px;">2D hypersonic flow over a double-wedge geometry, visualized using density schlieren.</p>
+<video class="research-video" autoplay muted loop playsinline><source src="{{ site.baseurl }}/assets/video/2d_flow_over_double_wedge_density_schlieren.mp4" type="video/mp4"></video>
+<p class="research-video-caption">2D hypersonic flow over a double-wedge geometry, visualized using density schlieren.</p>
 
 <div class="project-focus">
 

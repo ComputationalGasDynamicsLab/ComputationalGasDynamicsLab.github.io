@@ -15,7 +15,7 @@ nav_order: 2
 <p>
 Our group develops physics-based computational methods for complex gas-dynamic
 and plasma phenomena, with an emphasis on kinetic theory, particle simulation,
-GPU-accelerated high-performance computing, and high-performance computing.
+GPU-accelerated high-performance computing.
 </p>
 
 </div>
@@ -107,6 +107,10 @@ Fall 2025–Present
 </div>
 
 </div>
+
+</div>
+
+<div class="people-section">
 
 <div class="people-section-label">ALUMNI</div>
 

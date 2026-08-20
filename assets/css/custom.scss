@@ -364,6 +364,19 @@
 
 /* Research software */
 
+.research-video {
+  width: 80%;
+  border-radius: 8px;
+  display: block;
+  margin: 20px auto 8px;
+}
+
+.research-video-caption {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
 .research-software-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

@@ -166,7 +166,7 @@ and <strong>CometAI</strong>, an AI-assisted layer for scientific simulation
 workflows.
 </p>
 
-<p><a href="/software/">Explore our research software →</a></p>
+<p><a href="/research/">Explore our research software →</a></p>
 
 </section>
 
