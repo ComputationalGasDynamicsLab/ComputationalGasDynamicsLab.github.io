@@ -25,12 +25,12 @@ latest_posts:
 <div class="lab-hero">
 
 <p class="lab-tagline">
-Physics-based computational modeling of gas, plasma, and nonequilibrium flows.
+Kinetic theory-based computational modeling of gas, plasma, and nonequilibrium flows.
 </p>
 
 <p class="lab-intro">
-We develop predictive computational methods for complex gas-dynamic and plasma phenomena by combining
-<strong>kinetic theory-based particle simulation methods and high-performance computing</strong>.
+We develop predictive methods for complex gas-dynamic and plasma phenomena by combining
+<strong>kinetic theory-based particle simulation methods and GPU-accelerated high-performance computing</strong>.
 Our work connects fundamental physics with applications in aerospace, low-temperature plasma, and advanced manufacturing.
 </p>
 
@@ -63,7 +63,7 @@ Particle-in-Cell · Plasma kinetics · Plasma-surface interactions
 
 <p>
 We study rarefied and nonequilibrium gas dynamics, shock layers, and hypersonic aerothermodynamics
-using particle-based and continuum-kinetic approaches.
+using kinetic theory-based particle simulation methods.
 </p>
 
 <div class="research-card-methods">
@@ -121,7 +121,7 @@ semiconductor manufacturing and high-aspect-ratio etching.
 <p>
 We investigate rarefied and high-temperature nonequilibrium gas dynamics,
 shock-layer physics, and hypersonic aerothermodynamics using particle-based
-and continuum-kinetic approaches.
+and kinetic theory-based particle simulation methods.
 </p>
 
 </div>
@@ -133,7 +133,7 @@ and continuum-kinetic approaches.
 <p>
 We develop GPU-accelerated algorithms and scalable computational methods for
 large-scale scientific simulation, including particle methods, unstructured
-meshes, and high-performance computing on leadership-class systems.
+meshes, and GPU-accelerated high-performance computing.
 </p>
 
 </div>
@@ -154,7 +154,7 @@ analysis, and computational discovery.
 
 </section>
 
-<p><a href="/research/">Explore our research projects →</a></p>
+<p><a href="/research/#research-portfolio">Explore our research projects →</a></p>
 
 <section class="homepage-section">
 
@@ -166,7 +166,7 @@ and <strong>CometAI</strong>, an AI-assisted layer for scientific simulation
 workflows.
 </p>
 
-<p><a href="/research/">Explore our research software →</a></p>
+<p><a href="/research/#research-software">Explore our research software →</a></p>
 
 </section>
 
@@ -179,7 +179,7 @@ workflows.
 <p>
 I am looking for <strong>highly motivated Ph.D. students</strong> interested in
 <strong>low-temperature plasma, hypersonic nonequilibrium flow, kinetic theory,
-numerical methods, and high-performance computing</strong>.
+numerical methods, and GPU-accelerated high-performance computing</strong>.
 </p>
 
 <p>

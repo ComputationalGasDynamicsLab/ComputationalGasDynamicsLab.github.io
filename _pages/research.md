@@ -8,7 +8,7 @@ nav_order: 3
 
 Our research develops **physics-based computational methods** for complex gas-dynamic and plasma phenomena, with an emphasis on kinetic theory, particle simulation, and GPU-accelerated high-performance computing.
 
-<div class="projects-intro">
+<div id="research-portfolio" class="projects-intro">
 
 <div class="projects-intro-label">RESEARCH PORTFOLIO</div>
 
@@ -201,7 +201,7 @@ required by kinetic particle simulations.
 
 </div>
 
-<div class="projects-vision">
+<div id="research-software" class="projects-vision">
 
 <div class="projects-vision-label">RESEARCH SOFTWARE</div>
 
