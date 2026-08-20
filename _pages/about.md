@@ -206,3 +206,9 @@ See the latest research, awards, publications, and opportunities from the lab.
 </p>
 
 </section>
+
+<p class="homepage-acknowledgment">
+This website was built using the
+<a href="https://github.com/alshedivat/al-folio">al-folio</a> template with
+assistance from OpenAI Codex.
+</p>
