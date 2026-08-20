@@ -2,6 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
+description: Courses taught by the Computational Gas Dynamics and Plasma Physics Lab in aerodynamics and computational fluid dynamics.
 nav: true
 nav_order: 4
 ---

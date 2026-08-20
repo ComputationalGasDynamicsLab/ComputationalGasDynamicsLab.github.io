@@ -2,6 +2,7 @@
 layout: page
 title: People
 permalink: /people/
+description: People in the Computational Gas Dynamics and Plasma Physics Lab at the University of North Dakota.
 nav: true
 nav_order: 2
 ---

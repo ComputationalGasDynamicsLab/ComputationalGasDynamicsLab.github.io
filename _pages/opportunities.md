@@ -2,6 +2,7 @@
 layout: page
 title: Opportunities
 permalink: /opportunities/
+description: Funded Ph.D. opportunities in low-temperature plasma and hypersonic nonequilibrium flow at the University of North Dakota.
 nav: true
 nav_order: 7
 ---

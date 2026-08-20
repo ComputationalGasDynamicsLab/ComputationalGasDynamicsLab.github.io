@@ -27,6 +27,27 @@
   }
 }
 
+@media (min-width: 576px) and (max-width: 900px) {
+  .navbar-toggler-main {
+    display: block !important;
+    margin-left: auto;
+  }
+
+  #navbar.navbar.navbar-expand-sm .navbar-collapse-main {
+    display: none !important;
+  }
+
+  #navbar.navbar.navbar-expand-sm .navbar-collapse-main.show {
+    display: block !important;
+  }
+
+  .navbar-brand {
+    max-width: calc(100% - 3.5rem);
+    white-space: normal;
+    line-height: 1.25;
+  }
+}
+
 /* --------------------------------------------------------------------------
    Homepage
    -------------------------------------------------------------------------- */
@@ -366,6 +387,8 @@
 
 .research-video {
   width: 80%;
+  max-width: 100%;
+  height: auto;
   border-radius: 8px;
   display: block;
   margin: 20px auto 8px;
@@ -425,6 +448,7 @@
   border-radius: 999px;
   font-size: 0.68rem;
   line-height: 1.2;
+  overflow-wrap: anywhere;
 }
 
 /* Responsive layout */
@@ -917,12 +941,12 @@
   text-transform: uppercase;
 }
 
-.lab-news-content h3 {
+.lab-news-content h2 {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
 
-.lab-news-content h3 a {
+.lab-news-content h2 a {
   color: inherit;
 }
 
@@ -1037,6 +1061,10 @@
   max-width: 850px;
   margin-top: 0.5rem;
   line-height: 1.7;
+}
+
+.opportunities-application a {
+  overflow-wrap: anywhere;
 }
 
 @media (max-width: 768px) {

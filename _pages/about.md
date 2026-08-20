@@ -2,6 +2,7 @@
 layout: about
 title: Home
 permalink: /
+description: Computational gas dynamics and plasma physics research at the University of North Dakota using kinetic theory-based particle simulation methods and GPU-accelerated high-performance computing.
 
 profile:
   align: right
@@ -154,7 +155,7 @@ analysis, and computational discovery.
 
 </section>
 
-<p><a href="/research/#research-portfolio">Explore our research projects →</a></p>
+<p><a href="{{ '/research/#research-portfolio' | relative_url }}">Explore our research projects →</a></p>
 
 <section class="homepage-section">
 
@@ -166,7 +167,7 @@ and <strong>CometAI</strong>, an AI-assisted layer for scientific simulation
 workflows.
 </p>
 
-<p><a href="/research/#research-software">Explore our research software →</a></p>
+<p><a href="{{ '/research/#research-software' | relative_url }}">Explore our research software →</a></p>
 
 </section>
 
@@ -188,7 +189,7 @@ methods for complex gas-dynamic and plasma-physics problems.
 </p>
 
 <p>
-<a href="/opportunities/">Learn more about Ph.D. opportunities →</a>
+<a href="{{ '/opportunities/' | relative_url }}">Learn more about Ph.D. opportunities →</a>
 </p>
 
 </section>
@@ -202,7 +203,7 @@ See the latest research, awards, publications, and opportunities from the lab.
 </p>
 
 <p>
-<a href="/news/">View all news →</a>
+<a href="{{ '/news/' | relative_url }}">View all news →</a>
 </p>
 
 </section>

@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+description: Research in kinetic theory, particle simulation, plasma physics, hypersonic nonequilibrium flow, and GPU-accelerated high-performance computing.
 nav: true
 nav_order: 3
 ---
@@ -111,8 +112,8 @@ high-speed atmospheric entry and other extreme aerodynamic environments.
 <p>
 The research focuses on shock-layer physics, high-temperature nonequilibrium,
 and predictive modeling of complex hypersonic aerothermodynamic phenomena.</p>
-<video class="research-video" autoplay muted loop playsinline><source src="{{ site.baseurl }}/assets/video/2d_flow_over_double_wedge_density_schlieren.mp4" type="video/mp4"></video>
-<p class="research-video-caption">2D hypersonic flow over a double-wedge geometry, visualized using density schlieren.</p>
+<video class="research-video" aria-describedby="research-video-caption" autoplay muted loop playsinline><source src="{{ site.baseurl }}/assets/video/2d_flow_over_double_wedge_density_schlieren.mp4" type="video/mp4"></video>
+<p id="research-video-caption" class="research-video-caption">2D hypersonic flow over a double-wedge geometry, visualized using density schlieren.</p>
 
 <div class="project-focus">
 
