@@ -45,6 +45,11 @@ Comet focuses on scalable particle simulation methods for predictive modeling
 of complex nonequilibrium phenomena on modern high-performance computing systems.
 </p>
 
+<div class="research-output-links">
+<a href="{{ '/publications/?pub=zhang2024comet' | relative_url }}">Comet — AIAA AVIATION →</a>
+<a href="{{ '/publications/?pub=zhang2025comet' | relative_url }}">Comet-3D — AIAA SciTech →</a>
+</div>
+
 <div class="project-focus">
 
 <strong>Research Focus</strong>
@@ -236,8 +241,8 @@ kinetic simulation on unstructured meshes.
 </p>
 
 <div class="research-output-links">
-<a href="{{ '/publications/?pub=zhang2024comet' | relative_url }}">Comet DSMC publication →</a>
-<a href="{{ '/publications/?pub=zhang2025comet' | relative_url }}">Comet-3D publication →</a>
+<a href="{{ '/publications/?pub=zhang2024comet' | relative_url }}">Comet — AIAA AVIATION →</a>
+<a href="{{ '/publications/?pub=zhang2025comet' | relative_url }}">Comet-3D — AIAA SciTech →</a>
 </div>
 
 <div class="research-software-tags">
