@@ -33,3 +33,27 @@ Use the search tools to explore publications by topic, author, or year.
 {% bibliography %}
 
 </div>
+<script>
+  window.addEventListener("load", () => {
+    const publicationKey = new URLSearchParams(window.location.search).get("pub");
+    if (!publicationKey) return;
+
+    const publication = document.getElementById(publicationKey);
+    const selectedEntry = publication?.closest(".bibliography > li");
+    if (!selectedEntry) return;
+
+    document.querySelectorAll(".bibliography > li").forEach((entry) => {
+      entry.hidden = entry !== selectedEntry;
+    });
+
+    document.querySelectorAll("h2.bibliography").forEach((heading) => {
+      const bibliography = heading.nextElementSibling;
+      heading.hidden = bibliography !== selectedEntry.parentElement;
+    });
+
+    document.querySelectorAll("ol.bibliography").forEach((bibliography) => {
+      bibliography.hidden = bibliography !== selectedEntry.parentElement;
+    });
+
+});
+</script>

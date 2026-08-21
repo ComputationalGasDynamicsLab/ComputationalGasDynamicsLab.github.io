@@ -115,6 +115,11 @@ and predictive modeling of complex hypersonic aerothermodynamic phenomena.</p>
 <video class="research-video" aria-describedby="research-video-caption" autoplay muted loop playsinline><source src="{{ site.baseurl }}/assets/video/2d_flow_over_double_wedge_density_schlieren.mp4" type="video/mp4"></video>
 <p id="research-video-caption" class="research-video-caption">2D hypersonic flow over a double-wedge geometry, visualized using density schlieren.</p>
 
+<div class="research-output-links">
+<a href="{{ '/publications/?pub=diallo2025modeling' | relative_url }}">Selected DSMC publication →</a>
+<a href="{{ '/publications/?pub=zhang2013consistent' | relative_url }}">Foundational hypersonic study →</a>
+</div>
+
 <div class="project-focus">
 
 <strong>Research Focus</strong>
@@ -149,6 +154,10 @@ manufacturing, with emphasis on plasma transport and plasma-surface interactions
 The research examines the ion and electron distributions that control plasma
 processing, including high-aspect-ratio etching and ion energy and angular distributions.
 </p>
+
+<div class="research-output-links">
+<a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2531816">NSF award →</a>
+</div>
 
 <div class="project-focus">
 
@@ -185,6 +194,11 @@ meshes, particle-field coupling, and efficient solution of the field equations
 required by kinetic particle simulations.
 </p>
 
+<div class="research-output-links">
+<a href="{{ '/publications/?pub=zhang2023development' | relative_url }}">GPU/PIC publication →</a>
+<a href="{{ '/publications/?pub=diamond2021pumipic' | relative_url }}">Unstructured-mesh PIC publication →</a>
+</div>
+
 <div class="project-focus">
 
 <strong>Research Focus</strong>
@@ -220,6 +234,11 @@ required by kinetic particle simulations.
 GPU-accelerated Particle-in-Cell and Direct Simulation Monte Carlo methods for
 kinetic simulation on unstructured meshes.
 </p>
+
+<div class="research-output-links">
+<a href="{{ '/publications/?pub=zhang2024comet' | relative_url }}">Comet DSMC publication →</a>
+<a href="{{ '/publications/?pub=zhang2025comet' | relative_url }}">Comet-3D publication →</a>
+</div>
 
 <div class="research-software-tags">
 <span>Particle-in-Cell</span>
